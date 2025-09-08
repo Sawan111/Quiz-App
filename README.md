@@ -26,9 +26,7 @@ Answer multiple-choice questions, get instant feedback, and check your final sco
 ## 📸 Preview
 
 ![Quiz App Screenshot]("C:\Users\sks20\Desktop\Sawan docs\CV\Placement\Quiz APP SS.png")  
-*(Add your screenshot in `./screenshots/quiz-preview.png`)*
+*(Add your screenshot in `"C:\Users\sks20\Desktop\Sawan docs\CV\Placement\Quiz APP SS.png"`)*
 
 ---
 
-   ```bash
-   git clone https://github.com/your-username/quiz-app.git
