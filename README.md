@@ -6,7 +6,7 @@ Answer multiple-choice questions, get instant feedback, and check your final sco
 ## Preview
 
 ![Quiz App Screenshot](https://github.com/Sawan111/Quiz-App/commit/8308577f677f22057432c85781a4db7e2ac21d6e#r165328430)  
-*(Add your screenshot in `"C:\Users\sks20\Desktop\Sawan docs\CV\Placement\Quiz APP SS.png"`)*
+*( `"C:\Users\sks20\Desktop\Sawan docs\CV\Placement\Quiz APP SS.png"`)*
 
 ---
 
